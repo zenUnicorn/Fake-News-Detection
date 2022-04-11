@@ -40,5 +40,10 @@ from sklearn.naive_bayes import MultinomialNB
 
 ```
 
+## To test this model:
+Just modify the text of the ```news_headline``` variable. You should add a news headline to it and run the code, it will definitely predict if it is true or fake.
+
+
+
 Happy Coding. 🥳
 
